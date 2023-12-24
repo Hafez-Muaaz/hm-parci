@@ -1,1 +1,54 @@
-p{color: rgb(90, 20, 221); background-color: black;}
+.muaaz{
+    color: rgb(206, 25, 64);text-align: center;
+    font-weight: 1400px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 5vw;
+
+
+}
+
+body{
+    background-color: rgb(226, 203, 169);
+
+
+}
+.rasel{
+    color: rgb(13, 17, 1);
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(145, 13, 52);
+
+  
+   
+
+}
+.shanto{color: rgb(17, 5, 29);
+    border-width: 4px;
+    border-style: solid;
+    border-color: blue;
+}
+
+
+.belal{
+height: 500px;
+width: 250px;
+background-color: rgb(245, 167, 167);
+margin-left: 10px;
+
+}
+
+.tutul{
+    color: rgb(7, 89, 243);
+    text-align: center;
+    font-size: 15px;
+   text-transform: capitalize;
+   word-spacing: 10px;
+}
+
+
+.MD
+{
+
+}
+
+
